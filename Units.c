@@ -1,7 +1,7 @@
 //Units for year 1 semester 1
 /*
 NAME:COLEEN NICOLETTE KANYANYA
-REG NO:PA106/G/28764/25.
+REGISTRATION NUMBER:PA106/G/28764/25.
 Description:Program to display the units for software engineering students for year 1 semester 1
 */
 #include<stdio.h>//Preproccessor directive
@@ -15,6 +15,6 @@ printf("Communication skills (UCU 2101) \n");
 printf("Fundamentals of system analysis and design (SSE 2101)  \n");
 printf("Introduction to programming and problem solving (SPC 2101) \n");
 printf("Discrete Mathematics (SPM 2100) \n");
-
+//displays the name of each unit
 return 0;
 }
