@@ -56,5 +56,4 @@
     }
      printf("\nYou took %d tries to guess right",count);
     return 0;
->>>>>>> 32ca321 (Number guess commit)
 }
