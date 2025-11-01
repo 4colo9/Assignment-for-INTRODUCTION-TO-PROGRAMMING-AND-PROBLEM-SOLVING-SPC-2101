@@ -1,6 +1,8 @@
  /*Name:Coleen Nicolette Kanyanya
   Reg No: PA106/G/28764/25
-  Description : A programme to prompt for input for revenue for a week and display its sum and average
+  Description : A programme to prompt for input for revenue for a week and display its sum and average and to display the floors of a hotel and the rooms occupied per floor bu the use of a 2D array
+  and to display the branches of a hotel and the room occupied per floor by the use of a 3D array
+  
 */
 #include<stdio.h>
 #include<stdlib.h>//for the rand() and the srand() function
